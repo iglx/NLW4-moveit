@@ -32,4 +32,5 @@ vercel
 vercel --prod
 
 ### Prévia da interface do sistema
+<img src="public/icons/previa-layout.png">
 
